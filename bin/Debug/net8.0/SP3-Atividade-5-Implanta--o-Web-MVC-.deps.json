@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SP3-Atividade-5-Implanta--o-Web-MVC-/1.0.0": {
+        "runtime": {
+          "SP3-Atividade-5-Implanta--o-Web-MVC-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SP3-Atividade-5-Implanta--o-Web-MVC-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
